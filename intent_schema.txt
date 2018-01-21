@@ -1,0 +1,31 @@
+{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "Letter",
+          "type": "LIST_OF_LETTERS"
+        }
+      ],
+      "intent": "MyLetterIsIntent"
+    },
+    {
+      "intent": "CallYourBluffIntent"
+    },
+    {
+      "intent": "ExplainRulesIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "First",
+          "type": "YesNo"
+        }
+      ],
+      "intent": "GoFirstIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+MyLetterIsIntent i choose {Letter}
+MyLetterIsIntent my letter is {Letter}
+MyLetterIsIntent {Letter}
+CallYourBluffIntent i call your bluff
+CallYourBluffIntent you're bluffing
+CallYourBluffIntent bullshit
+ExplainRulesIntent rules
+ExplainRulesIntent explain the rules
+ExplainRulesIntent explain
+ExplainRulesIntent what is this
+ExplainRulesIntent how to play
+GoFirstIntent {First}
